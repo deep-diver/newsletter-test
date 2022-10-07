@@ -10,7 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/codingpot/newsletter_awesome_articles/internal"
+	"github.com/deep-diver/newsletter-test/internal"
 	"github.com/spf13/cobra"
 )
 
